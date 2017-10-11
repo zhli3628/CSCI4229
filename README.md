@@ -1,2 +1,2 @@
-# CSCI4273
+# CSCI4229
 Computer Graphics
